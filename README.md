@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JhonRaza
-- 👀 I’m interested in Data Science, Front-End Development, UI/UX, and Application Development (Cross-platform)
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Data Analysis, React Native and Web Dev projects.
+- 👀 I’m interested in Generative AI and it's implementation to make machine learning lifecycles more efficient.
+- 🌱 I’m currently learning multi-agent systems.
 - 📫 How to reach me: You can email me at jhonraza01@gmail.com
 
 <!---
